@@ -15,7 +15,6 @@ public class ParallaxRecyclerView extends RecyclerView {
     final OnScrollListener PARALLAX_SCROLLER = new OnScrollListener(){
         @Override
         public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
-            Log.d("scroll", "Start");
             //updateParallaxOffset();
         }
     };
