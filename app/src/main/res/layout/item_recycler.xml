@@ -7,7 +7,7 @@
     <com.ryann10.parallaxrecyclerview.ParallaxImageView
         android:id="@+id/img_parallax"
         android:layout_width="match_parent"
-        android:layout_height="150dip"
+        android:layout_height="200dip"
         android:src="@drawable/black"
         parallax:movement="50dp"
         parallax:focalPoint="-100"/>

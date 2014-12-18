@@ -33,5 +33,6 @@ public class MainActivity extends ActionBarActivity {
         // specify an adapter (see also next example)
         adapter = new ParallaxAdapter();
         recyclerView.setAdapter(adapter);
+        recyclerView.updateParallaxOffset();
     }
 }
