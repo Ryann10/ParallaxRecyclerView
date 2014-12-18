@@ -1,3 +1,3 @@
 ParallaxRecyclerView
 ====================
-Android 'SoundClould' Parallax ListView animation converted to RecyclerView.
+Android 'SoundClould' App like Parallax ListView animation converted to RecyclerView.
