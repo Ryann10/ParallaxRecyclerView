@@ -10,5 +10,5 @@
         android:layout_height="200dip"
         android:src="@drawable/black"
         parallax:movement="50dp"
-        parallax:focalPoint="-100"/>
+        parallax:start="-100"/>
 </LinearLayout>

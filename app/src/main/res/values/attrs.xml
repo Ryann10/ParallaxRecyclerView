@@ -2,6 +2,6 @@
 <resources>
     <declare-styleable name="ParallaxImageView">
         <attr name="movement" format="dimension" />
-        <attr name="focalPoint" format="float" />
+        <attr name="start" format="float" />
     </declare-styleable>
 </resources>
